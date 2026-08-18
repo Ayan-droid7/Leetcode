@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayan-droid7/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Array
+|  |
+| ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ayan-droid7/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Hash Table
+|  |
+| ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ayan-droid7/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 <!---LeetCode Topics End-->
