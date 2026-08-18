@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ayan-droid7/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Linked List
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/Ayan-droid7/Leetcode/tree/master/0147-insertion-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/Ayan-droid7/Leetcode/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
