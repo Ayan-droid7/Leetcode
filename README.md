@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayan-droid7/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0164-maximum-gap](https://github.com/Ayan-droid7/Leetcode/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/Ayan-droid7/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Ayan-droid7/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0313-super-ugly-number](https://github.com/Ayan-droid7/Leetcode/tree/master/0313-super-ugly-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ayan-droid7/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ayan-droid7/Leetcode/tree/master/0189-rotate-array) |
 | [0313-super-ugly-number](https://github.com/Ayan-droid7/Leetcode/tree/master/0313-super-ugly-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ayan-droid7/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayan-droid7/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayan-droid7/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/Ayan-droid7/Leetcode/tree/master/0189-rotate-array) |
 ## Monotonic Stack
 |  |
 | ------- |
