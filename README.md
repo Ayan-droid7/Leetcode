@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ayan-droid7/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ayan-droid7/Leetcode/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/Ayan-droid7/Leetcode/tree/master/0313-super-ugly-number) |
+| [0324-wiggle-sort-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayan-droid7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Ayan-droid7/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ayan-droid7/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayan-droid7/Leetcode/tree/master/0268-missing-number) |
+| [0324-wiggle-sort-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayan-droid7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bucket Sort
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0324-wiggle-sort-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Ayan-droid7/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Ayan-droid7/Leetcode/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayan-droid7/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Ayan-droid7/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayan-droid7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0324-wiggle-sort-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0324-wiggle-sort-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayan-droid7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0324-wiggle-sort-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0324-wiggle-sort-ii) |
 ## Sliding Window
 |  |
 | ------- |
