@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Ayan-droid7/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/Ayan-droid7/Leetcode/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ayan-droid7/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayan-droid7/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayan-droid7/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ayan-droid7/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ayan-droid7/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ayan-droid7/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Ayan-droid7/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Ayan-droid7/Leetcode/tree/master/0455-assign-cookies) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayan-droid7/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ayan-droid7/Leetcode/tree/master/0200-number-of-islands) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayan-droid7/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
 | ------- |
