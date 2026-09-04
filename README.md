@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayan-droid7/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayan-droid7/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Ayan-droid7/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ayan-droid7/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ayan-droid7/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1872-stone-game-viii](https://github.com/Ayan-droid7/Leetcode/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Ayan-droid7/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Breadth-First Search
 |  |
 | ------- |
