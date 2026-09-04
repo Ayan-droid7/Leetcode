@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Ayan-droid7/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Ayan-droid7/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ayan-droid7/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Ayan-droid7/Leetcode/tree/master/0268-missing-number) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ayan-droid7/Leetcode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Ayan-droid7/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Ayan-droid7/Leetcode/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/Ayan-droid7/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ayan-droid7/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
