@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ayan-droid7/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ayan-droid7/Leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Ayan-droid7/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Ayan-droid7/Leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Ayan-droid7/Leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Ayan-droid7/Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayan-droid7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ayan-droid7/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ayan-droid7/Leetcode/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/Ayan-droid7/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ayan-droid7/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
