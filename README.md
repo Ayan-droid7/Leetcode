@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ayan-droid7/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Ayan-droid7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0229-majority-element-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ayan-droid7/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Ayan-droid7/Leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ayan-droid7/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ayan-droid7/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ayan-droid7/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Ayan-droid7/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayan-droid7/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/Ayan-droid7/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Ayan-droid7/Leetcode/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/Ayan-droid7/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ayan-droid7/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ayan-droid7/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayan-droid7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Ayan-droid7/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -368,4 +372,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ayan-droid7/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ayan-droid7/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ayan-droid7/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ayan-droid7/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ayan-droid7/Leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
