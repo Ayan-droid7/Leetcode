@@ -12,17 +12,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ayan-droid7/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayan-droid7/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayan-droid7/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ayan-droid7/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayan-droid7/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Ayan-droid7/Leetcode/tree/master/0200-number-of-islands) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayan-droid7/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ayan-droid7/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayan-droid7/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayan-droid7/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |
