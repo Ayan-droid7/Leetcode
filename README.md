@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Ayan-droid7/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0313-super-ugly-number](https://github.com/Ayan-droid7/Leetcode/tree/master/0313-super-ugly-number) |
 | [0324-wiggle-sort-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ayan-droid7/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ayan-droid7/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayan-droid7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ayan-droid7/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Ayan-droid7/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Ayan-droid7/Leetcode/tree/master/0561-array-partition) |
 | [1386-cinema-seat-allocation](https://github.com/Ayan-droid7/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -435,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayan-droid7/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Ayan-droid7/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
