@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ayan-droid7/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ayan-droid7/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ayan-droid7/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Ayan-droid7/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0275-h-index-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayan-droid7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayan-droid7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ayan-droid7/Leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ayan-droid7/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ayan-droid7/Leetcode/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Ayan-droid7/Leetcode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ayan-droid7/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayan-droid7/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Ayan-droid7/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayan-droid7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ayan-droid7/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
