@@ -3,17 +3,7 @@ from typing import List
 
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        """
-        Search for a target value in a 2D matrix.
-        Each row is searched using binary search template.
-
-        Args:
-            matrix: 2D list of integers
-            target: Integer value to search for
-
-        Returns:
-            True if target is found, False otherwise
-        """
+        
         n = len(matrix[0])
 
         
