@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Ayan-droid7/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Ayan-droid7/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ayan-droid7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0835-image-overlap](https://github.com/Ayan-droid7/Leetcode/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Ayan-droid7/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/Ayan-droid7/Leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayan-droid7/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Ayan-droid7/Leetcode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ayan-droid7/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0835-image-overlap](https://github.com/Ayan-droid7/Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayan-droid7/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Minimax
 |  |
