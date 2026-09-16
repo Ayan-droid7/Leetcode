@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Ayan-droid7/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Ayan-droid7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/Ayan-droid7/Leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Ayan-droid7/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ayan-droid7/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Ayan-droid7/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Ayan-droid7/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Ayan-droid7/Leetcode/tree/master/0221-maximal-square) |
 | [0313-super-ugly-number](https://github.com/Ayan-droid7/Leetcode/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Ayan-droid7/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0413-arithmetic-slices](https://github.com/Ayan-droid7/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ayan-droid7/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Ayan-droid7/Leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Ayan-droid7/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Ayan-droid7/Leetcode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ayan-droid7/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
