@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayan-droid7/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/Ayan-droid7/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Ayan-droid7/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Ayan-droid7/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Ayan-droid7/Leetcode/tree/master/0198-house-robber) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayan-droid7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/Ayan-droid7/Leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Ayan-droid7/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ayan-droid7/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ayan-droid7/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Ayan-droid7/Leetcode/tree/master/0168-excel-sheet-column-title) |
