@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Ayan-droid7/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayan-droid7/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [1096-brace-expansion-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0454-4sum-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ayan-droid7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Ayan-droid7/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1096-brace-expansion-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Ayan-droid7/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayan-droid7/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayan-droid7/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Ayan-droid7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Ayan-droid7/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ayan-droid7/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1096-brace-expansion-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayan-droid7/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayan-droid7/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayan-droid7/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ayan-droid7/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Ayan-droid7/Leetcode/tree/master/0200-number-of-islands) |
+| [1096-brace-expansion-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayan-droid7/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ayan-droid7/Leetcode/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/Ayan-droid7/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0940-distinct-subsequences-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayan-droid7/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Ayan-droid7/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ayan-droid7/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -475,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0216-combination-sum-iii](https://github.com/Ayan-droid7/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ayan-droid7/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [1096-brace-expansion-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Design
 |  |
 | ------- |
