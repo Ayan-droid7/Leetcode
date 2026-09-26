@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Ayan-droid7/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ayan-droid7/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ayan-droid7/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/Ayan-droid7/Leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1872-stone-game-viii](https://github.com/Ayan-droid7/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ayan-droid7/Leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ayan-droid7/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ayan-droid7/Leetcode/tree/master/0204-count-primes) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/Ayan-droid7/Leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ayan-droid7/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Two Pointers
 |  |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [1808-maximize-number-of-nice-divisors](https://github.com/Ayan-droid7/Leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayan-droid7/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Longest Increasing Subsequence
 |  |
