@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Ayan-droid7/Leetcode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/Ayan-droid7/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Ayan-droid7/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Ayan-droid7/Leetcode/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayan-droid7/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ayan-droid7/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayan-droid7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ayan-droid7/Leetcode/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Ayan-droid7/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayan-droid7/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Ayan-droid7/Leetcode/tree/master/0189-rotate-array) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ayan-droid7/Leetcode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Ayan-droid7/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Ayan-droid7/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Ayan-droid7/Leetcode/tree/master/0221-maximal-square) |
