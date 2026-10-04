@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayan-droid7/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0456-132-pattern](https://github.com/Ayan-droid7/Leetcode/tree/master/0456-132-pattern) |
+| [0678-valid-parenthesis-string](https://github.com/Ayan-droid7/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ayan-droid7/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayan-droid7/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ayan-droid7/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Ayan-droid7/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Ayan-droid7/Leetcode/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/Ayan-droid7/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Ayan-droid7/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayan-droid7/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Ayan-droid7/Leetcode/tree/master/1927-sum-game) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Ayan-droid7/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Ayan-droid7/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0413-arithmetic-slices](https://github.com/Ayan-droid7/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0678-valid-parenthesis-string](https://github.com/Ayan-droid7/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayan-droid7/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ayan-droid7/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ayan-droid7/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Ayan-droid7/Leetcode/tree/master/0242-valid-anagram) |
+| [0678-valid-parenthesis-string](https://github.com/Ayan-droid7/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Ayan-droid7/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Ayan-droid7/Leetcode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -615,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ayan-droid7/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayan-droid7/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ayan-droid7/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ayan-droid7/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ayan-droid7/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayan-droid7/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayan-droid7/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
