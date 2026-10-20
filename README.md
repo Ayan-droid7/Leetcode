@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Ayan-droid7/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ayan-droid7/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0835-image-overlap](https://github.com/Ayan-droid7/Leetcode/tree/master/0835-image-overlap) |
+| [1340-jump-game-v](https://github.com/Ayan-droid7/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Ayan-droid7/Leetcode/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/Ayan-droid7/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayan-droid7/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Ayan-droid7/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ayan-droid7/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1096-brace-expansion-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1340-jump-game-v](https://github.com/Ayan-droid7/Leetcode/tree/master/1340-jump-game-v) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayan-droid7/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ayan-droid7/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ayan-droid7/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Ayan-droid7/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0678-valid-parenthesis-string](https://github.com/Ayan-droid7/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Ayan-droid7/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1340-jump-game-v](https://github.com/Ayan-droid7/Leetcode/tree/master/1340-jump-game-v) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayan-droid7/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ayan-droid7/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ayan-droid7/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
