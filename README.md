@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ayan-droid7/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1861-rotating-the-box](https://github.com/Ayan-droid7/Leetcode/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/Ayan-droid7/Leetcode/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Ayan-droid7/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ayan-droid7/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayan-droid7/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Ayan-droid7/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Ayan-droid7/Leetcode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Ayan-droid7/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ayan-droid7/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1882-process-tasks-using-servers](https://github.com/Ayan-droid7/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayan-droid7/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ayan-droid7/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ayan-droid7/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
